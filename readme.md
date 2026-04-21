@@ -1,6 +1,6 @@
 # realtime_chatapp
 
-Lightweight full-stack realtime group chat demo (MERN + Socket.IO).
+ Full-stack realtime group chat(MERN + Socket.IO).
 
 ## Summary
 Single-repo demo demonstrating a layered REST + WebSocket architecture:
